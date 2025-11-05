@@ -1,0 +1,2 @@
+Hello world, good morning, 
+Applying stash on all the edited files at once - ex: git stash apply:
