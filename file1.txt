@@ -1,3 +1,7 @@
 good morning, how are you.
 Now i am trying to work on stash, lets see if works
 applying git stash to all edited file in one go
+
+
+What is shell scriptig.
+how will shell works.
